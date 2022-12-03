@@ -1,0 +1,54 @@
+body {
+  background-color: salmon;
+}
+
+p,
+span {
+  color: ghostwhite;
+  font-family: Tahoma;
+}
+
+img {
+  border-radius: 100%;
+  width: 150px;
+  height: auto;
+  border: 10px solid grey;
+}
+
+h1 {
+  color: midnightblue;
+  font-family: courier;
+  font-size: 65px;
+  text-align: center;
+}
+
+audio {
+  margin: 10%;
+  margin-inline: 50px;
+  border: 05px solid grey;
+
+}
+
+h4 {
+  text-align: center;
+  color: white;
+  font-size: 25px;
+  font-style: italic;
+}
+
+h3 {
+  text-align: center;
+  color: gold;
+
+}
+
+video {
+  text-align: center;
+  color: white;
+  font-size: 25px;
+  font-style: italic;
+}
+table,td,tr{
+  border: 2px solid skyblue;
+  font-size: 20px;
+}
